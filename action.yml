@@ -11,7 +11,7 @@ inputs:
   armbian_soc:
     description: "Set Amlogic SoC."
     required: false
-    default: "s905d_s905x3"
+    default: "s912"
   armbian_kernel:
     description: "Set kernel."
     required: false
